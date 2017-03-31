@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BorrowerList()
+comment0.text=\n\ Constructor\ to\ initialise\n\ the\ list\ of\ borrowers\ with\ zero\ value\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getList()
+comment1.text=\n\ Method\ to\ return\ the\ list\n\ of\ borrowers\n
+comment2.params=borrower
+comment2.target=void\ addBorrower(Borrower)
+comment2.text=\n\ Method\ to\ add\ a\ borrower\n\ to\ the\ list\n
+comment3.params=tempAr
+comment3.target=void\ updateList(java.util.ArrayList)
+comment3.text=\n\ Method\ to\ update\ the\ list\n\ of\ borrowers\n
+comment4.params=
+comment4.target=void\ listBorrowers()
+comment4.text=\n\ Method\ to\ display\ the\ list\ \n\ of\ borrower\ \:\ In\ this\ method\ it\ gets\ the\ name,ID,age\ and\ books\ issued\ by\ the\ borrower\n
+comment5.params=option1
+comment5.target=void\ booksBorrowed(int)
+comment5.text=\n\ Method\ to\ display\ the\ list\ \n\ of\ books\ borrowed\ by\ a\ particular\ borrower\n
+comment6.params=index
+comment6.target=void\ deleteBorrower(int)
+comment6.text=\n\ Method\ to\ delete\ a\ particluar\ \ \n\ borrower\ from\ the\ list\ according\ to\ its\ index\ \n
+numComments=7

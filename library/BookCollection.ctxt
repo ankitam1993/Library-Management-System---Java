@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BookCollection()
+comment0.text=\n\ Constructor\ to\ initialise\ the\ list\ of\ books\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getList()
+comment1.text=\n\ This\ method\ returns\ the\ list\ of\ maintained\ books\n
+comment2.params=book
+comment2.target=void\ addBooks(Book)
+comment2.text=\n\ This\ method\ add\ books\ to\ the\ books\ list\n
+comment3.params=
+comment3.target=void\ displayBooksCollection()
+comment3.text=\n\ This\ method\ displays\ the\ list\ of\ maintained\ books\n
+numComments=4
